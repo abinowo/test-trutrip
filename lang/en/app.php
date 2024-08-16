@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'success' => 'success :message',
+    'success_signin' => 'success signin',
+    'success_retrieve' => 'success retrieve data :label',
+    'success_created' => 'success created data :label',
+    'success_updated' => 'success updated data :label',
+    'success_deleted' => 'success deleted data :label',
+    'success_restored' => 'success restored data :label',
+    'success_token_refresh' => 'success refresh token',
+    'failed' => 'failed :message',
+    'failed_signin' => 'failed signin',
+    'failed_signin_wrong' => 'your username or password not correct, please try again',
+    'failed_retrieve' => 'failed retrieve data :label',
+    'failed_created' => 'failed created data :label',
+    'failed_updated' => 'failed updated data :label',
+    'failed_deleted' => 'failed deleted data :label',
+    'failed_restored' => 'failed restored data :label',
+    'failed_token_refresh' => 'failed refresh token',
+    'error_system' => 'system error :message',
+    'notfound' => 'not found :label',
+    'data_exists' => ':label already exist',
+    'unauthorized' => 'unauthorized',
+];
